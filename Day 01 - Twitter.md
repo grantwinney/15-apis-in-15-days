@@ -1,3 +1,5 @@
+![](https://grantwinney.com/content/images/2017/12/30-apis-in-30-days---day-1-twitter.jpg)
+
 To kick off my [30 APIs in 30 Days](https://grantwinney.com/a-new-challenge-30-apis-in-30-days/) challenge, let's check out the Twitter API, how to use it and what it has to offer. You can start with their [getting started guide](https://developer.twitter.com/en/docs/basics/getting-started) if you like, but basically Twitter offers API calls that return various JSON payloads, or what they call [tweet data dictionaries](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/intro-to-tweet-json).
 
 Their API allows you to access tweets (a basic message), users (metadata about the senders of tweets), entities (components of a message, like hashtags and urls), and "extended" entities (media, such as videos and pictures). You can do [a lot more](https://developer.twitter.com/en/docs/api-reference-index) too, like manipulate lists, report users as spam, etc.

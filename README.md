@@ -13,6 +13,6 @@ Over the next 30 days I'll try to write about 30 different APIs, along with a li
 
 ## Getting Going
 
-- Day 1 - [Twitter API](Day%2001%20-%20Twitter.md) ([blog](https://grantwinney.com/day-1-twitter-api/))
+- Day 01 (Dec 16) - [Twitter API](Day%2001%20-%20Twitter.md) ([blog](https://grantwinney.com/day-1-twitter-api/))
 
-- Day 2 - ???
+- Day 02 (Dec 17) - ???

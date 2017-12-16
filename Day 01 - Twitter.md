@@ -1,4 +1,4 @@
-![](https://grantwinney.com/content/images/2017/12/30-apis-in-30-days---day-1-twitter.jpg)
+<img src="https://grantwinney.com/content/images/2017/12/30-apis-in-30-days---day-1-twitter.jpg" width=500>
 
 To kick off my [30 APIs in 30 Days](https://grantwinney.com/a-new-challenge-30-apis-in-30-days/) challenge, let's check out the Twitter API, how to use it and what it has to offer. You can start with their [getting started guide](https://developer.twitter.com/en/docs/basics/getting-started) if you like, but basically Twitter offers API calls that return various JSON payloads, or what they call [tweet data dictionaries](https://developer.twitter.com/en/docs/tweets/data-dictionary/overview/intro-to-tweet-json).
 

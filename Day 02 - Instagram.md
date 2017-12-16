@@ -1,3 +1,5 @@
+![](https://grantwinney.com/content/images/2017/12/30-apis-in-30-days---day-2-instagram.jpg)
+
 Continuing the [30 APIs in 30 Days](https://grantwinney.com/a-new-challenge-30-apis-in-30-days/) challenge, I think we'll stick with the social media theme for now and check out the [Instagram API](https://www.instagram.com/developer/).
 
 First though, two things to consider:

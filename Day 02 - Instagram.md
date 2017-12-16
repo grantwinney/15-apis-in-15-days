@@ -71,7 +71,7 @@ Now pick a photo - one you've uploaded or someone else's that's public - and try
 
 Here's what I put into Postman, and the response I got back. Pretty cool, huh? There's a ton of info, from the caption and numbers of likes and comments, to stuff I can't see through the website like URLs for various image sizes. 
 
-`GET` https://api.instagram.com/v1/media/shortcode/Bcizg1_B3nu?access_token=&lt;my_access_token>
+`GET` https://api.instagram.com/v1/media/shortcode/Bcizg1_B3nu?access_token=<my_access_token>
 
 ```json
 {
@@ -141,7 +141,7 @@ Once you're authorized, you can make a lot of other requests as defined in their
 
 Well, me. You can request information about the current user attached to the access token:
 
-`GET` https://api.instagram.com/v1/users/self?access_token=&lt;my_access_token>
+`GET` https://api.instagram.com/v1/users/self?access_token=<my_access_token>
 
 ```json
 {
@@ -169,7 +169,7 @@ Well, me. You can request information about the current user attached to the acc
 
 I'll try an example using the previous photo's ID (1667121369441597934_3657782666) which got returned along with the rest of the image metadata.
 
-`GET` https://api.instagram.com/v1/media/1667121369441597934_3657782666/likes?access_token=&lt;my_access_token>
+`GET` https://api.instagram.com/v1/media/1667121369441597934_3657782666/likes?access_token=<my_access_token>
 
 ```json
 {
@@ -195,7 +195,7 @@ Hey, look at this. Someone liked my photo! Oh. It's me.
 
 What happens if we try to *delete* a "Like" though? Well, then we get an error message like this one, because we didn't explicitly request permission to do that when we got the access token.
 
-`DELETE` https://api.instagram.com/v1/media/1667121369441597934_3657782666/likes?access_token=&lt;my_access_token>
+`DELETE` https://api.instagram.com/v1/media/1667121369441597934_3657782666/likes?access_token=<my_access_token>
 
 ```json
 {
@@ -211,7 +211,7 @@ Instagram calls them "[scopes](https://www.instagram.com/developer/authorization
 
 Let's try using the authorization url in the browser again, but this time with additional scopes tacked on to the end of it. In fact, I'm just going to request everything.
 
-https://api.instagram.com/oauth/authorize/?client_id=&lt;my_client_id>&redirect_uri=http://localhost&response_type=token&scope=public_content+follower_list+comments+relationships+likes
+https://api.instagram.com/oauth/authorize/?client_id=<my_client_id>&redirect_uri=http://localhost&response_type=token&scope=public_content+follower_list+comments+relationships+likes
 
 ![instagram-api---auth-request-with-scopes](https://grantwinney.com/content/images/2017/12/instagram-api---auth-request-with-scopes.png)
 

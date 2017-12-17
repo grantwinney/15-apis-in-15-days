@@ -18,8 +18,8 @@ In a similar fashion, an API lets you GET data out of a system and POST data int
 
 - Day 02 (Dec 16) - [Instagram API](Day%2002%20-%20Instagram.md) ([blog](https://grantwinney.com/day-2-instagram-api/))
 
-- Day 03 (Dec 17) - Backblaze Storage API
+- Day 03 (Dec 17) - [Backblaze B2 Storage API](Day%2003%20-%20Backblaze%20B2%20API.md) ([blog](https://grantwinney.com/day-3-backblaze-b2-api/))
 
-- Day 04 (Dec 18) - Dropbox API (https://www.dropbox.com/developers)
+- Day 04 (Dec 18) - Dropbox API? (https://www.dropbox.com/developers)
 
-- Day 05 (Dec 19) - GitHub API (https://developer.github.com/)
+- Day 05 (Dec 19) - GitHub API? (https://developer.github.com/)

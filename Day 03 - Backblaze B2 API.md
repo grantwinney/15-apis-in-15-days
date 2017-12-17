@@ -122,7 +122,7 @@ Might as well clean up after ourselves. Now that you've created a bucket, how ab
 
 This highlights another odd decision though. REST provides a `DELETE` action that would've been more intuitive, so that a call like this could've worked (if they had designed it that way).
 
-`DELETE` https://api001.backblazeb2.com/b2api/v1/b2_delete_bucket/&lt;your_bucket_id>
+`DELETE` https://api001.backblazeb2.com/b2api/v1/b2_delete_bucket/<your_bucket_id>
 
 One of the things I've noticed about REST is that there are few hard and fast rules... just a lot of guidelines, suggestions, and differing opinions. In this case it's not bad at all, but try hard enough and you can do some truly unintuitive stuff with REST.
 

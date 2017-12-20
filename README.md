@@ -22,4 +22,6 @@ In a similar fashion, an API lets you GET data out of a system and POST data int
 
 - Day 04 (Dec 19) - [Dropbox API](Day%2004%20-%20Dropbox%20API.md) ([blog](https://grantwinney.com/day-4-dropbox-api/))
 
-- Day 05 (Dec 20) - GitHub API? (https://developer.github.com/)
+- Day 05 (Dec 20) - [Slack API](Day%2005%20-%20Slack%20API.md) ([blog](https://grantwinney.com/day-5-slack-api/))
+
+- [GitHub API](https://developer.github.com/)? [Google Maps API](https://developers.google.com/maps/)?

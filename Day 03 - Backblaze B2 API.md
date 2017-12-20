@@ -1,6 +1,6 @@
-<img src="https://grantwinney.com/content/images/2017/12/30-apis-in-30-days---backblaze-b2-api.jpg" width=500>
+<img src="https://grantwinney.com/content/images/2017/12/15-apis-in-15-days---backblaze-b2-api.jpg" width=500>
 
-Continuing my [30 APIs in 30 Days](https://grantwinney.com/a-new-challenge-30-apis-in-30-days/) challenge, today I want to experiment with the [Backblaze B2 Storage API](https://www.backblaze.com/b2/docs/). If you're not familiar with Backblaze, they're a handy and inexpensive service that backs up your computer. I've been using them for years, and I even had to restore files when my hard drive succumbed to the "click of death" a couple years ago, so totally worth it.
+Continuing my [15 APIs in 15 Days](https://grantwinney.com/a-new-challenge-15-apis-in-15-days/) challenge, today I want to experiment with the [Backblaze B2 Storage API](https://www.backblaze.com/b2/docs/). If you're not familiar with Backblaze, they're a handy and inexpensive service that backs up your computer. I've been using them for years, and I even had to restore files when my hard drive succumbed to the "click of death" a couple years ago, so totally worth it.
 
 Backblaze has a cloud storage service too, in the same vein as AWS, Rackspace, etc. When you [sign up](https://www.backblaze.com/b2/sign-up.html) they give you 10GB free to mess around with.
 

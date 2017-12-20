@@ -1,6 +1,6 @@
-<img src="https://grantwinney.com/content/images/2017/12/30-apis-in-30-days---day-2-instagram.jpg" width=500>
+<img src="https://grantwinney.com/content/images/2017/12/15-apis-in-15-days---day-2-instagram.jpg" width=500>
 
-Continuing the [30 APIs in 30 Days](https://grantwinney.com/a-new-challenge-30-apis-in-30-days/) challenge, I think we'll stick with the social media theme for now and check out the [Instagram API](https://www.instagram.com/developer/).
+Continuing the [15 APIs in 15 Days](https://grantwinney.com/a-new-challenge-15-apis-in-15-days/) challenge, I think we'll stick with the social media theme for now and check out the [Instagram API](https://www.instagram.com/developer/).
 
 First though, two things to consider:
 

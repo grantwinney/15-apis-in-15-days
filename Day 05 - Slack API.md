@@ -167,7 +167,7 @@ Now that you've got your channels, switch over to Slack and type a message into 
 
 Try retrieving the messages from your channel, including the message you just added. Most of the API calls can be made in two ways - either with a JSON body like I did above, or as query string parameters, which seems to be what we *have* to use with this one, as the JSON body doesn't work. Oddly, either a `POST` or `GET` works... a `GET` seems more intuitive for requesting information, so that's what I used.
 
-`GET` https://slack.com/api/channels.history?token=<your-auth-token>&channel=C8HN58XQU
+    GET https://slack.com/api/channels.history?token=<your-auth-token>&channel=C8HN58XQU
 
 Here's the result I got back. See my test message? See the timestamp on it? If you're following along, grab the timestamp for your message too - you'll need it.
 

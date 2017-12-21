@@ -1,6 +1,6 @@
 <img src="https://grantwinney.com/content/images/2017/12/15-apis-in-15-days---day-04-dropbox.jpg" width=500>
 
-Continuing my [15 APIs in 15 Days](https://grantwinney.com/a-new-challenge-15-apis-in-15-days/) challenge *([also on GitHub](https://github.com/grantwinney/15-apis-in-15-days))*, today I played around with the [Dropbox API](https://www.dropbox.com/developers/), or DBX as they apparently call it. Dropbox provides file storage that syncs between your devices, but also appears to provide for synchronized collaboration of individual files on teams. Neato.
+Continuing my [15 APIs in 15 Days](https://grantwinney.com/a-new-challenge-15-apis-in-15-days/) challenge, today I played around with the [Dropbox API](https://www.dropbox.com/developers/), or DBX as they apparently call it. Dropbox provides file storage that syncs between your devices, but also appears to provide for synchronized collaboration of individual files on teams. Neato.
 
 First though, two things to consider:
 

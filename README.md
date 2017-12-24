@@ -26,4 +26,6 @@ In a similar fashion, an API lets you GET data out of a system and POST data int
 
 - Day 06 (Dec 22) - [Google Maps API](Day%2006%20-%20Google%20Maps%20API.md) ([blog](https://grantwinney.com/day-6-google-maps-api/))
 
+- Day 07 (Dec 23) - [NOAA API](Day%2007%20-%20NOAA%20API.md) ([blog](https://grantwinney.com/day-7-noaa-api/))
+
 - [GitHub API](https://developer.github.com/)?

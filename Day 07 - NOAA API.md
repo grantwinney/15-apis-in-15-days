@@ -1,6 +1,6 @@
 <img src="https://grantwinney.com/content/images/2017/12/15-apis-in-15-days---NOAA.jpg" width="500">
 
-Continuing my search for [15 APIs in 15 Days](https://grantwinney.com/a-new-challenge-15-apis-in-15-days/) *([also on GitHub](https://github.com/grantwinney/15-apis-in-15-days))*, I came across the [NOAA API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2/). [NOAA](http://www.noaa.gov/) is an American agency that studies and charts various conditions in the oceans and atmosphere.
+Continuing my search for [15 APIs in 15 Days](https://grantwinney.com/a-new-challenge-15-apis-in-15-days/), I came across the [NOAA API](https://www.ncdc.noaa.gov/cdo-web/webservices/v2/). [NOAA](http://www.noaa.gov/) is an American agency that studies and charts various conditions in the oceans and atmosphere.
 
 First though, two things to consider:
 

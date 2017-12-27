@@ -14,9 +14,9 @@ In a similar fashion, an API lets you GET data out of a system and POST data int
 
 ## Off We Go
 
-- Day 01 (Dec 15) - [Twitter API](Day%2001%20-%20Twitter.md) ([blog](https://grantwinney.com/day-1-twitter-api/))
+- Day 01 (Dec 15) - [Twitter API](Day%2001%20-%20Twitter%20API.md) ([blog](https://grantwinney.com/day-1-twitter-api/))
 
-- Day 02 (Dec 16) - [Instagram API](Day%2002%20-%20Instagram.md) ([blog](https://grantwinney.com/day-2-instagram-api/))
+- Day 02 (Dec 16) - [Instagram API](Day%2002%20-%20Instagram%20API.md) ([blog](https://grantwinney.com/day-2-instagram-api/))
 
 - Day 03 (Dec 17) - [Backblaze B2 Storage API](Day%2003%20-%20Backblaze%20B2%20API.md) ([blog](https://grantwinney.com/day-3-backblaze-b2-api/))
 
@@ -29,3 +29,5 @@ In a similar fashion, an API lets you GET data out of a system and POST data int
 - Day 07 (Dec 23) - [NOAA API](Day%2007%20-%20NOAA%20API.md) ([blog](https://grantwinney.com/day-7-noaa-api/))
 
 - Day 08 (Dec 24) - [NASA API](Day%2008%20-%20NASA%20API.md) ([blog](https://grantwinney.com/day-8-nasa-api/))
+
+- Day 09 (Dec 26) - [HubbleSite API](Day%2008%20-%20HubbleSite%20API.md) ([blog](https://grantwinney.com/day-9-hubblesite-api/))

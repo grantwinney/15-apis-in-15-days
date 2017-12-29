@@ -35,3 +35,5 @@ In a similar fashion, an API lets you GET data out of a system and POST data int
 - Day 10 (Dec 27) - [Trello API](Day%2010%20-%20Trello%20API.md) ([blog](https://grantwinney.com/day-10-trello-api/))
 
 - Day 11 (Dec 28) - [ISS Notify (aka Notify Open) API](Day%2011%20-%20ISS%20Notify%20API.md) ([blog](https://grantwinney.com/day-11-iss-notify-api/))
+
+- Day 12 (Dec 29) - [OpenWeatherMap API](Day%2012%20-%20OpenWeatherMap%20API.md) ([blog](https://grantwinney.com/day-12-openweathermap-api/))

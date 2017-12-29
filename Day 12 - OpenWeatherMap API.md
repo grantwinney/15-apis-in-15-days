@@ -29,6 +29,7 @@ It returns an abundance of data for the location - you can [read about the resul
 * Barometric Pressure, in mm (1038 mm is about 40 inches)
 * Humidity, percentage (it's currently snowing so the humidity is high)
 * Min and Max temps, in Kelvin (deviation for large geographical areas)
+* Visibility, in meters (about 9 miles)
 * Wind speed and direction, in m/sec (about 6 mph, due South)
 * Cloud cover (currently 90%)
 * Timestamp of request (which you can [convert to normal time](https://www.epochconverter.com/) here)

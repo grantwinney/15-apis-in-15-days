@@ -12,7 +12,7 @@ In a similar fashion, an API lets you GET data out of a system and POST data int
 
 [Download Postman](https://www.getpostman.com/) so you can try these out yourself. Postman is a tool that allows you to make API calls without having to implement code in any particular language, and it's great for trying things out. Of course, if you want to do anything with the results of those API calls, then you'll need to pick a language to use them in.
 
-## Off We Go
+## Let's Go!
 
 - Day 01 (Dec 15) - [Twitter API](Day%2001%20-%20Twitter%20API.md) ([blog](https://grantwinney.com/day-1-twitter-api/))
 

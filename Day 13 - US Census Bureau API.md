@@ -1,6 +1,6 @@
 <img src="https://grantwinney.com/content/images/2017/12/15-apis-in-15-days---us-census-bureau.jpg" width=500>
 
-Continuing my search for [15 APIs in 15 Days](https://grantwinney.com/a-new-challenge-15-apis-in-15-days/) *([also on GitHub](https://github.com/grantwinney/15-apis-in-15-days))*, today I'm writing about the [US Census Bureau APIs](https://www.census.gov/data/developers/data-sets.html), which provide access to American census data, demographics, housing stats, etc. It's all anonymous aggregate data that's already publicly available - no personal data.
+Continuing my search for [15 APIs in 15 Days](https://grantwinney.com/a-new-challenge-15-apis-in-15-days/), today I'm writing about the [US Census Bureau APIs](https://www.census.gov/data/developers/data-sets.html), which provide access to American census data, demographics, housing stats, etc. It's all anonymous aggregate data that's already publicly available - no personal data.
 
 First though, two things to consider:
 

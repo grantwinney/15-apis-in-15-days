@@ -37,3 +37,5 @@ In a similar fashion, an API lets you GET data out of a system and POST data int
 - Day 11 (Dec 28) - [ISS Notify (aka Notify Open) API](Day%2011%20-%20ISS%20Notify%20API.md) ([blog](https://grantwinney.com/day-11-iss-notify-api/))
 
 - Day 12 (Dec 29) - [OpenWeatherMap API](Day%2012%20-%20OpenWeatherMap%20API.md) ([blog](https://grantwinney.com/day-12-openweathermap-api/))
+
+- Day 13 (Dec 30) - [US Census Bureau API](Day%2013%20-%20US%20Census%20Bureau%20API.md) ([blog](https://grantwinney.com/day-13-us-census-bureau-api/))

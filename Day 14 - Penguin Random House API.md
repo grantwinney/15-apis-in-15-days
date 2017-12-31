@@ -1,6 +1,6 @@
 <img src="https://grantwinney.com/content/images/2017/12/15-apis-in-15-days---penguin-random-house.jpg" width="500">
 
-Continuing my search for [15 APIs in 15 Days](https://grantwinney.com/a-new-challenge-15-apis-in-15-days/) *([also on GitHub](https://github.com/grantwinney/15-apis-in-15-days))*, today I'm writing about the [Penguin Random House API](http://www.penguinrandomhouse.biz/webservices/rest/). Penguin is a book publisher, and their API can be used to get data about books, authors and events.
+Continuing my search for [15 APIs in 15 Days](https://grantwinney.com/a-new-challenge-15-apis-in-15-days/), today I'm writing about the [Penguin Random House API](http://www.penguinrandomhouse.biz/webservices/rest/). Penguin is a book publisher, and their API can be used to get data about books, authors and events.
 
 First though, two things to consider:
 

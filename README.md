@@ -39,3 +39,5 @@ In a similar fashion, an API lets you GET data out of a system and POST data int
 - Day 12 (Dec 29) - [OpenWeatherMap API](Day%2012%20-%20OpenWeatherMap%20API.md) ([blog](https://grantwinney.com/day-12-openweathermap-api/))
 
 - Day 13 (Dec 30) - [US Census Bureau API](Day%2013%20-%20US%20Census%20Bureau%20API.md) ([blog](https://grantwinney.com/day-13-us-census-bureau-api/))
+
+- Day 14 (Dec 31) - [Penguin Random House API](Day%2014%20-%20Penguin%20Random%20House%20API.md) ([blog](https://grantwinney.com/day-14-penguin-random-house-api/))

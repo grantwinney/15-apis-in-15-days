@@ -2,6 +2,13 @@
 
 # 15 APIs in 15 Days
 
+![](https://placehold.it/15/6ffffd/000000?text=+)
+![](https://placehold.it/15/66a8ff/000000?text=+)
+![](https://placehold.it/15/3c52bd/000000?text=+)
+**This was a great learning experience, so I've since begun to [explore a new API every Monday](https://grantwinney.com/tag/api/).**
+
+---
+
 It's getting too cold to do anything productive outside, and I've got a week-long holiday break coming up soon, so I think it's time for a little personal challenge. I've been kind of fascinated by APIs for awhile, the way the good ones manage to hide unknown complexity behind a wall of simplicity. In an ideal world anyway.
 
 Before I started my current job, I wasn't completely sure what an API was. If you're in the same boat, consider how your car's dashboard hides the complexity of hundreds of sensors and electronics under the hood. You can GET the current speed or outside temperature, and SET the cruise control speed or radio station. It's an interface to a more complex system, so you don't have to sweat the details.

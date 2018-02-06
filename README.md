@@ -5,7 +5,10 @@
 ![](https://placehold.it/15/6ffffd/000000?text=+)
 ![](https://placehold.it/15/66a8ff/000000?text=+)
 ![](https://placehold.it/15/3c52bd/000000?text=+)
-**This was a great learning experience, so I've since begun to [explore a new API every Monday](https://grantwinney.com/tag/api/).**
+**This was a great learning experience, so I've since begun to [explore a new API every Monday](https://grantwinney.com/tag/api/). If you like the format here, I'm continuing in the same vein on my blog - an overview of features, how to get authorized, and some code examples and thoughts after the fact.**
+![](https://placehold.it/15/3c52bd/000000?text=+)
+![](https://placehold.it/15/66a8ff/000000?text=+)
+![](https://placehold.it/15/6ffffd/000000?text=+)
 
 ---
 

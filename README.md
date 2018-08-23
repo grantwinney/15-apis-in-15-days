@@ -5,7 +5,7 @@
 ![](https://placehold.it/15/6ffffd/000000?text=+)
 ![](https://placehold.it/15/66a8ff/000000?text=+)
 ![](https://placehold.it/15/3c52bd/000000?text=+)
-**This was a great learning experience, so I've since begun to [explore a new API every Monday](https://grantwinney.com/tag/api/). If you like the format here, I'm continuing in the same vein on my blog - an overview of features, how to get authorized, and some code examples and thoughts after the fact.**
+**This was a great learning experience, so I've since begun to [explore new APIs](https://grantwinney.com/tag/api/). If you like the format here, I'm continuing in the same vein on my blog - an overview of features, how to get authorized, and some code examples and thoughts after the fact.** *(links at the bottom)*
 ![](https://placehold.it/15/3c52bd/000000?text=+)
 ![](https://placehold.it/15/66a8ff/000000?text=+)
 ![](https://placehold.it/15/6ffffd/000000?text=+)
@@ -53,3 +53,15 @@ In a similar fashion, an API lets you GET data out of a system and POST data int
 - Day 14 (Dec 31) - [Penguin Random House API](Day%2014%20-%20Penguin%20Random%20House%20API.md) ([blog](https://grantwinney.com/day-14-penguin-random-house-api/))
 
 - Day 15 (Jan 1) - [IGDB (Internet Game Database) API](Day%2015%20-%20IGDB%20API.md) ([blog](https://grantwinney.com/day-15-igdb-api-internet-game-database/))
+
+### More APIs
+
+I wrote a couple one-off posts, [what an API wrapper is and how to write one](https://grantwinney.com/what-is-an-api-wrapper-and-how-do-i-write-one/), as well as [the many ways APIs can authorize access](https://grantwinney.com/a-look-at-the-many-ways-apis-can-authorize-access/). Check them out if you'd like to know more about APIs in general.
+
+Here's a list of other APIs I've written about too:
+
+- Jan 22, 2018 - [Accessing weather and climate data with the Planet OS API](https://grantwinney.com/what-is-the-planet-os-api/)
+- Jan 30, 2018 - [Managing your books and shelves with the Google Books API](https://grantwinney.com/what-is-the-google-books-api/)
+- Feb 06, 2018 - [Generating random passwords, numbers and GUIDs with the PasswordRandom API](https://grantwinney.com/passwordrandom-api/)
+- Feb 07, 2018 - [Managing your posts, tags, and users with the Ghost Blog API](https://grantwinney.com/what-is-the-ghost-api/)
+- Jun 24, 2018 - [Access yesterday's Internet with the Wayback Machine API](https://grantwinney.com/access-yesterdays-internet-with-the-wayback-machine-apis/)

@@ -65,3 +65,4 @@ Here's a list of other APIs I've written about too:
 - Feb 06, 2018 - [Generating random passwords, numbers and GUIDs with the PasswordRandom API](https://grantwinney.com/passwordrandom-api/)
 - Feb 07, 2018 - [Managing your posts, tags, and users with the Ghost Blog API](https://grantwinney.com/what-is-the-ghost-api/)
 - Jun 24, 2018 - [Access yesterday's Internet with the Wayback Machine API](https://grantwinney.com/access-yesterdays-internet-with-the-wayback-machine-apis/)
+- Oct 12, 2018 - [Querying Amazon's product details with the Amazon Product Advertising API](https://grantwinney.com/querying-amazon-product-details-with-the-amazon-product-advertising-api/)
